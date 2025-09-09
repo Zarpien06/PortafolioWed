@@ -114,7 +114,7 @@ const Portfolio = () => {
           <nav className="container mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
               <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
-                OscarCruz.dev
+                Oscar Cruz
               </div>
               
               <div className="hidden md:flex items-center space-x-8">
