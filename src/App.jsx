@@ -114,7 +114,7 @@ const Portfolio = () => {
           <nav className="container mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
               <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
-                OscarCruz.dev
+                 Oscar Cruz
               </div>
               
               <div className="hidden md:flex items-center space-x-8">
@@ -546,10 +546,10 @@ const Portfolio = () => {
                   <div>
                     <h3 className="text-2xl font-bold mb-6">Redes Sociales</h3>
                     <div className="flex gap-4">
-                      <a href="#" className="p-3 bg-white/10 rounded-lg hover:bg-white/20 transition-colors">
+                      <a href="https://github.com/Zarpien06" className="p-3 bg-white/10 rounded-lg hover:bg-white/20 transition-colors">
                         <Github size={24} />
                       </a>
-                      <a href="#" className="p-3 bg-white/10 rounded-lg hover:bg-white/20 transition-colors">
+                      <a href="https://www.linkedin.com/in/oscarcruz-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="p-3 bg-white/10 rounded-lg hover:bg-white/20 transition-colors">
                         <Linkedin size={24} />
                       </a>
                       <a href="mailto:oscarcruzsena2006@gmail.com" className="p-3 bg-white/10 rounded-lg hover:bg-white/20 transition-colors">
@@ -644,7 +644,7 @@ const Portfolio = () => {
             <div className="flex flex-col md:flex-row justify-between items-center gap-6">
               <div className="text-center md:text-left">
                 <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent mb-2">
-                  OscarCruz.dev
+                  Oscar Cruz
                 </div>
                 <p className="text-gray-400">
                   Desarrollador Full Stack • Construyendo el futuro, una línea de código a la vez
@@ -652,10 +652,10 @@ const Portfolio = () => {
               </div>
               
               <div className="flex items-center gap-6">
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">
+                <a href="https://github.com/Zarpien06" className="text-gray-400 hover:text-white transition-colors">
                   <Github size={24} />
                 </a>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">
+                <a href="https://www.linkedin.com/in/oscarcruz-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-gray-400 hover:text-white transition-colors">
                   <Linkedin size={24} />
                 </a>
                 <a href="mailto:oscarcruzsena2006@gmail.com" className="text-gray-400 hover:text-white transition-colors">
@@ -673,7 +673,6 @@ const Portfolio = () => {
                   © {new Date().getFullYear()} Oscar Cruz. Todos los derechos reservados.
                 </p>
                 <p className="text-gray-400 text-sm">
-                  Hecho con 💻, ☕ y mucha pasión por el código
                 </p>
               </div>
             </div>
