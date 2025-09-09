@@ -240,10 +240,10 @@ const Portfolio = () => {
                 </div>
                 
                 <div className="flex items-center gap-6 pt-4">
-                  <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                  <a href="https://github.com/Zarpien06" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                     <Github size={24} />
                   </a>
-                  <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                  <a href="https://www.linkedin.com/in/oscarcruz-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                     <Linkedin size={24} />
                   </a>
                   <a href="mailto:oscarcruzsena2006@gmail.com" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
@@ -431,7 +431,7 @@ const Portfolio = () => {
             
             <div className="text-center mt-12">
               <a 
-                href="#"
+                href="https://github.com/Zarpien06"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-xl font-medium hover:scale-105 transition-transform"
               >
                 <Github size={20} />
